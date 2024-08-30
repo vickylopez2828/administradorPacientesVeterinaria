@@ -2,6 +2,9 @@
 
 Este proyecto es una aplicación para la gestión de pacientes en una veterinaria. Desarrollada con **React** y **TypeScript**, y creada utilizando **Vite**, esta aplicación permite registrar, visualizar, editar y eliminar pacientes de manera sencilla y eficiente.
 
+## Deploy
+Este proyecto fue deployado con Netlify se puede acceder de la siguiente url: https://66d2519d9886f0695e2f8c00--hilarious-pavlova-007ee7.netlify.app/
+
 ## Características
 
 - **Formulario de Pacientes:** Registra nuevos pacientes a través de un formulario intuitivo.
